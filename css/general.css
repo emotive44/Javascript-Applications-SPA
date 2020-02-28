@@ -1,0 +1,14 @@
+@import url('./details.css');
+@import url('./index.css');
+@import url('./team.css');
+
+.form-group {
+    width: 50%;
+    margin: 0 auto;
+}
+
+footer {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
